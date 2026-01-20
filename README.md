@@ -15,6 +15,12 @@ SAS Technologies – Pakistan | Jan 2020-Dec 2024
 - Developed real-time application features using WebSockets and Socket.IO to support live updates and user interactions.
 - Built admin-controlled front-end systems with dynamic navigation, feature toggles, and kill switches, backed by scheduled back-end jobs (CRON).
 
+## Education
+- Master of Science: Artificial Intelligence - Expected in November 2026 
+- Bachelor of Science: Engineering (University of Engineering And Technology) | Lahore, Pakistan 
+
+
+
 
 <!--
 **HammadEngr/HammadEngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
