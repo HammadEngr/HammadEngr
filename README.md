@@ -6,14 +6,14 @@ Full-Stack Engineer with hands-on experience building and maintaining production
 
 ## Full Stack Engineer
 SAS Technologies – Pakistan | Jan 2020-Dec 2024
-•	Contributed to the refactoring and redesign of Cassandra data models to remove reliance on ALLOW FILTERING, supporting schema updates across 500+ tables, while maintaining existing application behavior.
-•	Analyzed application query patterns to identify high-impact optimizations, and assisted in executing phased schema changes to reduce production risk.
-•	Designed and implemented backend monetization and wallet functionality, including logarithmic earnings calculations to optimize user rewards.
-•	Integrated Stripe-based payment workflows, supporting balance-to-coin conversions, and debit/credit transaction tracking.
-•	Built admin-facing dashboards to monitor user earnings, transactions, and monetization metrics, with clear financial visibility.
-•	Implemented time-based scheduling logic for configurable UI interactions (daily, weekly, monthly), enforcing spacing and boundary constraints via backend services.
-•	Developed real-time application features using WebSockets and Socket.IO to support live updates and user interactions.
-•	Built admin-controlled front-end systems with dynamic navigation, feature toggles, and kill switches, backed by scheduled back-end jobs (CRON).
+- Contributed to the refactoring and redesign of Cassandra data models to remove reliance on ALLOW FILTERING, supporting schema updates across 500+ tables, while maintaining existing application behavior.
+- Analyzed application query patterns to identify high-impact optimizations, and assisted in executing phased schema changes to reduce production risk.
+- Designed and implemented backend monetization and wallet functionality, including logarithmic earnings calculations to optimize user rewards.
+- Integrated Stripe-based payment workflows, supporting balance-to-coin conversions, and debit/credit transaction tracking.
+- Built admin-facing dashboards to monitor user earnings, transactions, and monetization metrics, with clear financial visibility.
+- Implemented time-based scheduling logic for configurable UI interactions (daily, weekly, monthly), enforcing spacing and boundary constraints via backend services.
+- Developed real-time application features using WebSockets and Socket.IO to support live updates and user interactions.
+- Built admin-controlled front-end systems with dynamic navigation, feature toggles, and kill switches, backed by scheduled back-end jobs (CRON).
 
 
 <!--
