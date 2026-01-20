@@ -15,6 +15,14 @@ SAS Technologies – Pakistan | Jan 2020-Dec 2024
 - Developed real-time application features using WebSockets and Socket.IO to support live updates and user interactions.
 - Built admin-controlled front-end systems with dynamic navigation, feature toggles, and kill switches, backed by scheduled back-end jobs (CRON).
 
+## Core Skills & Technologies
+- **Frontend Development:** React, HTML, CSS
+- **Backend Development:** Node.js, Django, REST APIs	•	Databases: Cassandra, MongoDB
+- **Programming Languages:** JavaScript, Python
+- **Tools & DevOps:** Docker, Git, GitHub
+- **Real-Time Systems:** WebSockets, CRON jobs
+
+
 ## Education
 - Master of Science: Artificial Intelligence - Expected in November 2026 
 - Bachelor of Science: Engineering (University of Engineering And Technology) | Lahore, Pakistan 
