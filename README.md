@@ -1,27 +1,37 @@
 # Hammad Ahmed
 Full-Stack Engineer | Node JS | React JS | Django | Docker | AWS | MongoDB | Cassandra
 
-## Professional Summary
-Full-Stack Engineer with hands-on experience building and maintaining production applications across front-end and backend systems. Contributed to large-scale database optimization initiatives using Cassandra, including schema refactoring to improve query performance. Designed and implemented backend business logic for scheduling and monetization features, applying mathematical models to optimize user outcomes. Adept at writing clear, feature-driven documentation and collaborating across teams to deliver reliable, scalable solutions.
+## Profile
+Full stack developer with 4 years of experience building complex data driven web applications with React and JavaScript. Proven track record delivering real-time features, admin dashboards, dynamic UI systems and user-facing payment flows in large scale product. Comfortable contributing across the stack: Node.js APIs, scheduling logic and Web Socket integration. Relocated from Pakistan in early 2025 for MSc in AI in Berlin which is expected to complete in Nov 2026.
 
 ## Full Stack Engineer
 SAS Technologies – Pakistan | Jan 2020-Dec 2024
-- Contributed to the refactoring and redesign of Cassandra data models to remove reliance on ALLOW FILTERING, supporting schema updates across 500+ tables, while maintaining existing application behavior.
-- Analyzed application query patterns to identify high-impact optimizations, and assisted in executing phased schema changes to reduce production risk.
-- Designed and implemented backend monetization and wallet functionality, including logarithmic earnings calculations to optimize user rewards.
-- Integrated Stripe-based payment workflows, supporting balance-to-coin conversions, and debit/credit transaction tracking.
-- Built admin-facing dashboards to monitor user earnings, transactions, and monetization metrics, with clear financial visibility.
-- Implemented time-based scheduling logic for configurable UI interactions (daily, weekly, monthly), enforcing spacing and boundary constraints via backend services.
-- Developed real-time application features using WebSockets and Socket.IO to support live updates and user interactions.
-- Built admin-controlled front-end systems with dynamic navigation, feature toggles, and kill switches, backed by scheduled back-end jobs (CRON).
+- Built an admin facing dashboard suite to monitor user earnings, wallet transactions and monetization behavior with real-time debit/credit visibility.
+- Implemented a fully configurable UI scheduling system with daily, weekly and monthly interaction triggers, enforced spacing and boundary constraints supporting complex product logic without code deploys.
+- Designed and delivered a user wallet and monetization flow including coin-to-balance conversions, Stripe based payments and full transaction history UI.
+- Built an admin controlled frontend system with dynamic navigation, feature toggles and kill switches, enabling safe production behavior management backed by scheduled backend jobs.
+- Implemented real-time UI features using Web Sockets, enabling live data updates across user facing views without page reload.
+- Contributed to database schema design work across a large-scale application collaborating with backend to maintain query performance and data integrity.
+- Refactored and redesigned Cassandra data models to remove reliance on “ALLOW FILTERING”, modifying schemas across 500+ Cassandra tables reducing latency up to 20%.
+- Authored end-to-end feature documentation covering UI behavior, component logic, API contracts and data flow – reducing onboarding time for new developers from several weeks to just 2 weeks.
 
-## Core Skills & Technologies
-- **Frontend Development:** React, HTML, CSS
-- **Backend Development:** Node.js, Django, REST APIs	•	Databases: Cassandra, MongoDB
-- **Programming Languages:** JavaScript, Python
-- **Tools & DevOps:** Docker, Git, GitHub
-- **Real-Time Systems:** WebSockets, CRON jobs
+## PROJECTS
+**CareerCraft** - github.com/HammadEngr/cv_analyzer – AI powered CV analyzer built with React, Node.js and Anthropic
+Claude. Features PDF extraction, real-time streaming analysis, structured scoring across 5 metrics and 60% token
+optimization through prompt engineering. CI/CD via Docker.
 
+**FLEEK** - https://github.com/HammadEngr/Fleek_social - Full-stack social app (in progress) built with React, Node.js,
+MongoDB and CI/CD with Docker. Features JWT auth, image processing, dark/light theme, multilingual support and
+modular architecture with central error handling.
+
+**Crisis Response AI Chatbot** – https://github.com/HammadEngr/Fire_response_assistant
+Conversational fire crisis response chatbot built with Rasa, Django and Docker. Includes dialogue flows and intent
+modeling and deployed on AWS cloud EC2.
+
+## Skills
+- **Frontend:** React.js, Next.js, Typescript, JavaScript, HTML5, CSS3, Tailwind CSS, Ant-Design, Web Sockets.
+- **Backend:** Node.js, REST APIs, CRON Scheduling, Cassandra, MongoDB
+- **Others:** Docker, Git, GitHub, AWS EC2, Anthropic API, Prompt Engineering, Python, Rasa, NLTK
 
 ## Education
 - Master of Science: Artificial Intelligence - Expected in November 2026 
