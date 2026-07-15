@@ -2,8 +2,14 @@
 Full-Stack Engineer | Node JS | React JS | Django | Docker | AWS | MongoDB | Cassandra
 
 ## Profile
-Full stack developer with 4 years of experience building complex data driven web applications with React and JavaScript. Proven track record delivering real-time features, admin dashboards, dynamic UI systems and user-facing payment flows in large scale product. Comfortable contributing across the stack: Node.js APIs, scheduling logic and Web Socket integration. Relocated from Pakistan in early 2025 for MSc in AI in Berlin which is expected to complete in Nov 2026.
+I am a Software and AI Engineer with 5+ years of experience specializing in Generative AI and Full Stack Development. I currently work as an AI Developer, focusing on Large Language Model (LLM) applications for industrial safety analysis and multimodal AI assistants. My experience spans AI engineering, web application development, and cloud-based software solutions.
 
+I have worked with Python, TypeScript, JavaScript, React.js, Next.js, Node.js, Express.js, REST APIs, WebSockets, MongoDB, Cassandra, PostgreSQL, MySQL, Redis, AWS, Docker, GitHub Actions, and AI technologies including
+Anthropic Claude, OpenAI APIs, CLIP, Whisper, FAISS, Sentence Transformers, Streamlit, and Prompt Engineering. My work includes system design, software architecture, API integration, payment systems, authentication, and
+performance optimization.
+
+I enjoy collaborating within Agile teams to design, develop, and maintain scalable software solutions while contributing across both frontend and backend development. I am committed to building practical AI-powered
+applications and continuing to expand my expertise in Artificial Intelligence and modern software engineering.
 ## Full Stack Engineer
 SAS Technologies – Pakistan | Jan 2020-Dec 2024
 - Built an admin facing dashboard suite to monitor user earnings, wallet transactions and monetization behavior with real-time debit/credit visibility.
